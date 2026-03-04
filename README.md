@@ -16,3 +16,5 @@ pip install pytest
 Run tests:
 
 pytest
+
+Pytest was chosen because it is simple, widely used in Python projects, and requires less boilerplate compared to unittest.
